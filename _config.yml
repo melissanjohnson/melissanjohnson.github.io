@@ -23,6 +23,10 @@ sass:
 
 exclude:
 - README.md
+- vendor
+- .bundle
+- Gemfile
+- Gemfile.lock
 
 
 safe: true
